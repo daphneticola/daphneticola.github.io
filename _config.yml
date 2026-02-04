@@ -14,7 +14,7 @@ minimal_mistakes_skin: "default"
 
 author:
   name: Daphne Ticola
-  avatar: /assets/images/avatar.jpg
+avatar: "/assets/images/daphnejpg.jpg"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
