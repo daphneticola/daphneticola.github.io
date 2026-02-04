@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-## Welcome
+## 
 
 I am an Instructional Systems Designer with professional experience designing
 learner-centered, performance-driven instructional solutions.
