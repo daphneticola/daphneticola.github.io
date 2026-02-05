@@ -1,10 +1,11 @@
 title: Daphne Ticola
 description: "Instructional Systems Designer specializing in learner-centered, performance-focused instructional solutions."
- 
-  url: "https://daphneticola.github.io"
+
+url: "https://daphneticola.github.io"
 baseurl: "/daphne-ticola.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
   - jekyll-include-cache
 
@@ -12,7 +13,7 @@ minimal_mistakes_skin: "default"
 
 author:
   name: Daphne Ticola
-avatar: "/assets/images/daphnejpg.jpg"
+  avatar: "/assets/images/daphnejpg.jpg"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
@@ -26,4 +27,3 @@ defaults:
       author_profile: true
       header:
         nav: "main"
-
