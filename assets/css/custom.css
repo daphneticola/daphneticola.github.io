@@ -78,21 +78,35 @@
    CONTENT WIDTH / MARGINS
    =================================== */
 
-/* Constrain content width for better readability */
-.page__content,
+/* Force content width constraint */
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+main,
+.main-content,
+.page,
+.post,
 article,
-.post-content,
-main {
+.content,
+#main {
+  max-width: 800px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+}
+
+/* Headings and paragraphs */
+h1, h2, h3, h4, h5, h6, p {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 20px;
-  padding-right: 20px;
 }
 
-/* Keep images responsive within the constrained width */
-.page__content img,
-article img {
+/* Keep images responsive */
+img {
   max-width: 100%;
   height: auto;
 }
