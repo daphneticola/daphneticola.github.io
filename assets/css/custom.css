@@ -75,19 +75,34 @@
 }
 
 /* ===================================
-   CONTENT WIDTH / MARGINS
+   CONTENT WIDTH / MARGINS - FORCE OVERRIDE
    =================================== */
 
-/* Constrain the main content container */
-.initial-content {
+/* Target the layout wrapper */
+body.layout--default {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Constrain all main content */
+.masthead,
+.initial-content,
+.page__content {
   max-width: 900px !important;
+  width: 100% !important;
   margin-left: auto !important;
   margin-right: auto !important;
   padding-left: 40px !important;
   padding-right: 40px !important;
+  box-sizing: border-box !important;
 }
 
-/* Additional constraint for direct children */
-.initial-content > * {
-  max-width: 100%;
+/* Force width on all paragraphs and headings */
+.initial-content p,
+.initial-content h1,
+.initial-content h2,
+.initial-content h3,
+.initial-content h4 {
+  max-width: 100% !important;
 }
