@@ -19,7 +19,7 @@ In practice, this means creating learning environments that engage learners in a
 
 ## Teaching for Talent Development and Engagement
 
-![Alt text]({{ site.baseurl }}/assets/images/renzulli3ring.jpg)
+![Alt text]({{ site.baseurl }}/assets/images/Renzulli3Ring.jpg)
 
 *Figure 1. Renzulli’s Three-Ring Conception of Giftedness illustrates gifted behaviors as the interaction of above-average ability, creativity, and task commitment (Renzulli, Reis, & Smith, 2021).*
 
