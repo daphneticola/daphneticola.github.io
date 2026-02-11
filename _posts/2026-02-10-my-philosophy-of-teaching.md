@@ -19,7 +19,7 @@ In practice, this means creating learning environments that engage learners in a
 
 ## Teaching for Talent Development and Engagement
 
-![Alt text]({{ site.baseurl }}/assets/images/Renzulli3Ring.jpg)
+![Alt text](/assets/images/Renzulli3Ring.jpg)
 
 *Figure 1. Renzulli’s Three-Ring Conception of Giftedness illustrates gifted behaviors as the interaction of above-average ability, creativity, and task commitment (Renzulli, Reis, & Smith, 2021).*
 
@@ -31,7 +31,7 @@ Aha moments, therefore, are the result of teaching that aligns challenge with su
 
 ## Cognitive Clarity and Multimedia Design
 
-![Alt text]({{ site.baseurl }}/assets/images/cognitivetheory-of-multimedialearning.png)
+![Alt text](/assets/images/cognitivetheory-of-multimedialearning.png)
 
 *Figure 2. Multimedia learning principles illustrating the importance of managing cognitive load through intentional instructional design (Mayer, 2020; Wikiversity, n.d.).*
 
