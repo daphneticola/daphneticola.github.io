@@ -3,7 +3,7 @@ layout: single
 title: "Final Reflections: ITD-602P Instructional Technology & Design Tools"
 date: 2026-02-26
 categories: blog
-author_profile: true
+author_profile: false
 ---
 <style>
 .initial-content {
@@ -14,8 +14,6 @@ author_profile: true
     padding-right: 40px !important;
 }
 </style>
-
-# Final Reflections: ITD-602P Instructional Technology & Design Tools
 
 ### *Every tool added to the toolbox is a win — even the ones you can't use yet.*
 
