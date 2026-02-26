@@ -1,9 +1,8 @@
 ---
-layout: single
 title: "Final Reflections: ITD-602P Instructional Technology & Design Tools"
-date: 2026-02-26
+layout: default
 categories: blog
-author_profile: false
+tags: instructional-design instructional-technology DoD ISD tools genially github
 ---
 <style>
 .initial-content {
@@ -14,6 +13,8 @@ author_profile: false
     padding-right: 40px !important;
 }
 </style>
+
+# Final Reflections: ITD-602P Instructional Technology & Design Tools
 
 ### *Every tool added to the toolbox is a win — even the ones you can't use yet.*
 
