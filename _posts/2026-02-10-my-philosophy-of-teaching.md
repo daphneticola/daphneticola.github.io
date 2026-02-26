@@ -86,3 +86,7 @@ University of California San Diego. (n.d.). Multimedia learning: Best practices.
 Renzulli, J. S., Reis, S. M., & Smith, L. H. (2021). Reexamining the role of gifted education and talent development for the 21st century. University of Connecticut, Neag School of Education.
 
 Renzulli, J. S., Reis, S. M., & Smith, L. H. (2021). *Reexamining the role of gifted education and talent development for the 21st century*. University of Connecticut, Renzulli Center for Creativity, Gifted Education, and Talent Development. https://gifted.uconn.edu/schoolwide-enrichment-model/three-ring_conception_of_giftedness/
+
+*Daphne Ticola, M.Ed.*
+*MS in Instructional Technology and Design*
+*ITD-602P | M3A2: Philosophy of Teaching Blog*
