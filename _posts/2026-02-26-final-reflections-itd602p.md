@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: single
 title: "Final Reflections: ITD-602P Instructional Technology & Design Tools"
 date: 2026-02-26
 categories: blog
+author_profile: true
 ---
 <style>
 .initial-content {
