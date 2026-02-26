@@ -26,7 +26,7 @@ This course did not fully close it — but it moved me forward, and I am gratefu
 
 ## What I Learned
 
-Two tools stood out for me: **Genially** and **GitHub**. Neither is something I had worked with before. Genially opened my eyes to what interactive, visually engaging content can look like when thoughtfully designed. GitHub pushed me well outside my comfort zone — but building and maintaining this very portfolio through it gave me a skill I will carry forward long after this course ends.
+Two tools stood out for me: **Genially** and **GitHub**. Neither is something I had worked with before. Genially opened my eyes to what interactive, visually engaging content can look like when thoughtfully designed. It could offer an alternative to using a tool like, Adobe Captivate if you need something quick and engaging, although it does not offer all of the metrics that the latter does. GitHub pushed me well outside my comfort zone — but building and maintaining this very portfolio through it gave me a skill I will carry forward long after this course ends.
 
 I also noticed something unexpected: learning about tools I cannot immediately use still has real value. Each new platform I encountered sharpened my ability to evaluate tools — to ask *what problem does this solve, and does it serve the learner?* That critical lens is something I will take into every design decision I make.
 
