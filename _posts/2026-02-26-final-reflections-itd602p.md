@@ -4,6 +4,15 @@ title: "Final Reflections: ITD-602P Instructional Technology & Design Tools"
 date: 2026-02-26
 categories: blog
 ---
+<style>
+.initial-content {
+    max-width: 900px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+}
+</style>
 
 # Final Reflections: ITD-602P Instructional Technology & Design Tools
 
